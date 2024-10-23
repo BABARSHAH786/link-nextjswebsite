@@ -3,9 +3,6 @@ import image1 from './../../public1/image1.jpg'
 import image2 from './../../public1/image2.jpg'
 import image3 from './../../public1/image3.jpg'
 
-
-
-import Link from "next/link"
 export default function NavBar(){
   return (
     <div>
