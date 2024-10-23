@@ -10,7 +10,7 @@ export default function NavBar(){
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center">
                 <h2 className="bg-red-200 border-8 p-4 text-2xl font-extrabold text-gray-900 sm:text-4xl">Contact Us</h2>
-                <p className="mt-4 text-lg text-gray-600">We'd love to hear from you! Please fill out the form below to get in touch.</p>
+                <p className="mt-4 text-lg text-gray-600">We love to hear from you! Please fill out the form below to get in touch.</p>
             </div>
 
             <div className="mt-10">
